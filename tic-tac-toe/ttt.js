@@ -37,7 +37,7 @@ window.onload = function(){
 	  
 		if((tl === tm && tm === tr && tr !== "-") || (ml === mm && mm  === mr && mr !== "-") || (bl === bm && bm ===br && br !== "-") || (tl === ml && ml === bl&& bl !== '-') || 
 			 (tm === mm && mm === bm && bm !== '-') || (tr === mr && mr === br && br !== '-') || (tl === mm && mm === br && br !== '-') || (tr === mm && mm === bl && bl !== '-')){
-				 alert("WINNNNNNNNSSSSSSSSSSSSSSSSS!!!!!!!!!!");
+				 alert("WINNA WINNA!!!!!!!!!!");
 			 }
 		else{}
 	}
